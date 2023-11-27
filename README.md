@@ -1,2 +1,2 @@
-# cp-problem-solving
+# problem-solving
 My solutions of some problems from various competitive programming platforms.
