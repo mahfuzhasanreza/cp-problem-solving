@@ -1,8 +1,8 @@
-# My solutions
+# My Solutions
 My solutions of some problems from various competitive programming platforms.  
 <br>
 
-## Codeforces solutions
+# Codeforces Solutions
 Problem Rating | Problem Link | Solution Link
 ---------------|--------------|--------------
  800 | [A. Hit the Lottery](https://codeforces.com/problemset/problem/996/A) | https://github.com/mahfuzhasanreza/CP-ProblemSolving/blob/main/Codeforces/996A_Hit_the_Lottery.cpp
