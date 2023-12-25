@@ -74,36 +74,36 @@ Problem Rating | Problem Link | Solution Link
  800 | [A. Petya and Strings](https://codeforces.com/problemset/problem/112/A) | https://github.com/mahfuzhasanreza/CP-ProblemSolving/blob/main/Codeforces/112A_Petya_and_Strings.cpp
  800 | [A. Nearly Lucky Number](https://codeforces.com/problemset/problem/110/A) | https://github.com/mahfuzhasanreza/CP-ProblemSolving/blob/main/Codeforces/110A_Nearly_Lucky_Number.cpp
  800 | [A. In Search of an Easy Problem](https://codeforces.com/problemset/problem/1030/A) | https://github.com/mahfuzhasanreza/CP-ProblemSolving/blob/main/Codeforces/1030A_In_Search_of_an_Easy_Problem.cpp
- 900 | [B. Two-gram](https://codeforces.com/contest/977/problem/B) | -
- 800 | [A. Musical Puzzle](https://codeforces.com/contest/1833/problem/A) | -
- 800 | [A. Division?](https://codeforces.com/contest/1669/problem/A) | -
- 900 | [A. Odd Divisor](https://codeforces.com/contest/1475/problem/A) | -
- 1000 | [A. Minimum Integer](https://codeforces.com/contest/1101/problem/A) | -
- 800 | [A. Juggling Letters](https://codeforces.com/contest/1397/problem/A) | -
- 800 | [C. Sum in Binary Tree](https://codeforces.com/contest/1843/problem/C) | -
- 800 | [B. Long Long](https://codeforces.com/contest/1843/problem/B) | -
- 800 | [A. Sasha and Array Coloring](https://codeforces.com/contest/1843/problem/A) | -
- 1300 | [B. Array Sharpening](https://codeforces.com/contest/1291/problem/B) | -
- 900 | [A. Distance and Axis](https://codeforces.com/contest/1401/problem/A) | - 
- 900 | [B. Restore the Weather](https://codeforces.com/contest/1833/problem/B) | -
- 800 | [A. Marathon](https://codeforces.com/contest/1692/problem/A) | -
- 800 | [A. Cipher Shifer](https://codeforces.com/contest/1840/problem/A) | -
- 800 | [A. Arrival of the General](https://codeforces.com/contest/144/problem/A) | -
- 800 | [A. Anton and Polyhedrons](https://codeforces.com/contest/785/problem/A) | -
- 800 | [A. Sum of Round Numbers](https://codeforces.com/contest/1352/problem/A) | -
- 800 | [A. Soft Drinking](https://codeforces.com/contest/151/problem/A) | -
- 1200 | [A. Chewbaсca and Number](https://codeforces.com/contest/514/problem/A) | -
- 800 | [B. Minority](https://codeforces.com/contest/1633/problem/B) | -
- 800 | [A. Div. 7](https://codeforces.com/contest/1633/problem/A) | -
- 800 | [A. Erasing Zeroes](https://codeforces.com/contest/1303/problem/A) | -
- 1000 | [B. Assigning to Classes](https://codeforces.com/contest/1300/problem/B) | -
- 800 | [B. Fix You](https://codeforces.com/contest/1391/problem/B) | -
- 800 | [A. Repeating Cipher](https://codeforces.com/contest/1095/problem/A) | -
- 800 | [A. Mahmoud and Ehab and the even-odd gam](https://codeforces.com/contest/959/problem/A) | -
- 800 | [A. LCM Problem](https://codeforces.com/contest/1389/problem/A) | -
- 800 | [A. Ichihime and Triangle](https://codeforces.com/contest/1337/problem/A) | -
- 800 | [A. Boring Apartments](https://codeforces.com/contest/1433/problem/A) | -
- 800 | [A. Vanya and Cubes](https://codeforces.com/contest/492/problem/A) | -
- 800 | [A. Gennady and a Card Game](https://codeforces.com/contest/1097/problem/A) | -
- 800 | [A. Maximum Increase](https://codeforces.com/contest/702/problem/A) | -
- 800 | [A. C+=](https://codeforces.com/contest/1368/problem/A) | -
+ 900 | [B. Two-gram](https://codeforces.com/contest/977/problem/B) | https://github.com/mahfuzhasanreza/CP-ProblemSolving/blob/main/Codeforces/977B_Two_gram.cpp
+ 800 | [A. Musical Puzzle](https://codeforces.com/contest/1833/problem/A) | https://github.com/mahfuzhasanreza/CP-ProblemSolving/blob/main/Codeforces/1833A_Musical_Puzzle.cpp
+ 800 | [A. Division?](https://codeforces.com/contest/1669/problem/A) | https://github.com/mahfuzhasanreza/CP-ProblemSolving/blob/main/Codeforces/1669A_Division.cpp
+ 900 | [A. Odd Divisor](https://codeforces.com/contest/1475/problem/A) | https://github.com/mahfuzhasanreza/CP-ProblemSolving/blob/main/Codeforces/1475A_Odd_Divisor.cpp
+ 1000 | [A. Minimum Integer](https://codeforces.com/contest/1101/problem/A) | https://github.com/mahfuzhasanreza/CP-ProblemSolving/blob/main/Codeforces/1101A_Minimum_Integer.cpp
+ 800 | [A. Juggling Letters](https://codeforces.com/contest/1397/problem/A) | https://github.com/mahfuzhasanreza/CP-ProblemSolving/blob/main/Codeforces/1397A_Juggling_Letters.cpp
+ 800 | [C. Sum in Binary Tree](https://codeforces.com/contest/1843/problem/C) | https://github.com/mahfuzhasanreza/CP-ProblemSolving/blob/main/Codeforces/1843C_Sum_in_Binary_Tree.cpp
+ 800 | [B. Long Long](https://codeforces.com/contest/1843/problem/B) | https://github.com/mahfuzhasanreza/CP-ProblemSolving/blob/main/Codeforces/1843B_Long_Long.cpp
+ 800 | [A. Sasha and Array Coloring](https://codeforces.com/contest/1843/problem/A) | https://github.com/mahfuzhasanreza/CP-ProblemSolving/blob/main/Codeforces/1843A_Sasha_and_Array_Coloring.cpp
+ 1300 | [B. Array Sharpening](https://codeforces.com/contest/1291/problem/B) | https://github.com/mahfuzhasanreza/CP-ProblemSolving/blob/main/Codeforces/1291B_Array_Sharpening.cpp
+ 900 | [A. Distance and Axis](https://codeforces.com/contest/1401/problem/A) | https://github.com/mahfuzhasanreza/CP-ProblemSolving/blob/main/Codeforces/1401A_Distance_and_Axis.cpp
+ 900 | [B. Restore the Weather](https://codeforces.com/contest/1833/problem/B) | https://github.com/mahfuzhasanreza/CP-ProblemSolving/blob/main/Codeforces/1833B_Restore_the_Weather.cpp
+ 800 | [A. Marathon](https://codeforces.com/contest/1692/problem/A) | https://github.com/mahfuzhasanreza/CP-ProblemSolving/blob/main/Codeforces/1692A_Marathon.cpp
+ 800 | [A. Cipher Shifer](https://codeforces.com/contest/1840/problem/A) | https://github.com/mahfuzhasanreza/CP-ProblemSolving/blob/main/Codeforces/1840A_Cipher_Shifer.cpp
+ 800 | [A. Arrival of the General](https://codeforces.com/contest/144/problem/A) | https://github.com/mahfuzhasanreza/CP-ProblemSolving/blob/main/Codeforces/144A_Arrival_of_the_General.cpp
+ 800 | [A. Anton and Polyhedrons](https://codeforces.com/contest/785/problem/A) | https://github.com/mahfuzhasanreza/CP-ProblemSolving/blob/main/Codeforces/785A_Anton_and_Polyhedrons.cpp
+ 800 | [A. Sum of Round Numbers](https://codeforces.com/contest/1352/problem/A) | https://github.com/mahfuzhasanreza/CP-ProblemSolving/blob/main/Codeforces/1352A_Sum_of_Round_Numbers.cpp
+ 800 | [A. Soft Drinking](https://codeforces.com/contest/151/problem/A) | https://github.com/mahfuzhasanreza/CP-ProblemSolving/blob/main/Codeforces/151A_Soft_Drinking.cpp
+ 1200 | [A. Chewbaсca and Number](https://codeforces.com/contest/514/problem/A) | https://github.com/mahfuzhasanreza/CP-ProblemSolving/blob/main/Codeforces/514A_Chewba%D1%81ca_and_Number.cpp
+ 800 | [B. Minority](https://codeforces.com/contest/1633/problem/B) | https://github.com/mahfuzhasanreza/CP-ProblemSolving/blob/main/Codeforces/1633B_Minority.cpp
+ 800 | [A. Div. 7](https://codeforces.com/contest/1633/problem/A) | https://github.com/mahfuzhasanreza/CP-ProblemSolving/blob/main/Codeforces/1633A_Div_7.cpp
+ 800 | [A. Erasing Zeroes](https://codeforces.com/contest/1303/problem/A) | https://github.com/mahfuzhasanreza/CP-ProblemSolving/blob/main/Codeforces/1303A_Erasing_Zeroes.cpp
+ 1000 | [B. Assigning to Classes](https://codeforces.com/contest/1300/problem/B) | https://github.com/mahfuzhasanreza/CP-ProblemSolving/blob/main/Codeforces/1300B_Assigning_to_Classes.cpp
+ 800 | [B. Fix You](https://codeforces.com/contest/1391/problem/B) | https://github.com/mahfuzhasanreza/CP-ProblemSolving/blob/main/Codeforces/1391B_Fix_You.cpp
+ 800 | [A. Repeating Cipher](https://codeforces.com/contest/1095/problem/A) | https://github.com/mahfuzhasanreza/CP-ProblemSolving/blob/main/Codeforces/1095A_Repeating_Cipher.cpp
+ 800 | [A. Mahmoud and Ehab and the even-odd gam](https://codeforces.com/contest/959/problem/A) | https://github.com/mahfuzhasanreza/CP-ProblemSolving/blob/main/Codeforces/959A_Mahmoud_and_Ehab_and_the_even_odd_game.cpp
+ 800 | [A. LCM Problem](https://codeforces.com/contest/1389/problem/A) | https://github.com/mahfuzhasanreza/CP-ProblemSolving/blob/main/Codeforces/1389A_LCM_Problem.cpp
+ 800 | [A. Ichihime and Triangle](https://codeforces.com/contest/1337/problem/A) | https://github.com/mahfuzhasanreza/CP-ProblemSolving/blob/main/Codeforces/1337A_Ichihime_and_Triangle.cpp
+ 800 | [A. Boring Apartments](https://codeforces.com/contest/1433/problem/A) | https://github.com/mahfuzhasanreza/CP-ProblemSolving/blob/main/Codeforces/1433A_Boring_Apartments.cpp
+ 800 | [A. Vanya and Cubes](https://codeforces.com/contest/492/problem/A) | https://github.com/mahfuzhasanreza/CP-ProblemSolving/blob/main/Codeforces/492A_Vanya_and_Cubes.cpp
+ 800 | [A. Gennady and a Card Game](https://codeforces.com/contest/1097/problem/A) | https://github.com/mahfuzhasanreza/CP-ProblemSolving/blob/main/Codeforces/1097A_Gennady_and_a_Card_Game.cpp
+ 800 | [A. Maximum Increase](https://codeforces.com/contest/702/problem/A) | https://github.com/mahfuzhasanreza/CP-ProblemSolving/blob/main/Codeforces/702A_Maximum_Increase.cpp
+ 800 | [A. C+=](https://codeforces.com/contest/1368/problem/A) | https://github.com/mahfuzhasanreza/CP-ProblemSolving/blob/main/Codeforces/1368A_C%2B%3D.cpp
