@@ -4,7 +4,7 @@ My solutions of some problems from various competitive programming platforms.
 
 # Codeforces Solutions
 \# | Difficulty | Problem Link | Solution Link
-:-:|:----------:|:-------------:|:-------------:
+:-:|:----------:|:-------------:|-------------
 1 | 800 | [A. Hit the Lottery](https://codeforces.com/problemset/problem/996/A) | https://github.com/mahfuzhasanreza/CP-ProblemSolving/blob/main/Codeforces/996A_Hit_the_Lottery.cpp
 2 | 800 | [A. Wrong Subtraction](https://codeforces.com/problemset/problem/977/A) | https://github.com/mahfuzhasanreza/CP-ProblemSolving/blob/main/Codeforces/977A_Wrong_Subtraction.cpp
 3 | 900 | [A. Football](https://codeforces.com/problemset/problem/96/A) | https://github.com/mahfuzhasanreza/CP-ProblemSolving/blob/main/Codeforces/96A_Football.cpp
