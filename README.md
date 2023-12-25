@@ -52,7 +52,6 @@ Problem Rating | Problem Link | Solution Link
  900 | [A. Dubstep](https://codeforces.com/problemset/problem/208/A) | https://github.com/mahfuzhasanreza/CP-ProblemSolving/blob/main/Codeforces/208A_Dubstep.cpp
  800 | [B. Drinks](https://codeforces.com/problemset/problem/200/B) | https://github.com/mahfuzhasanreza/CP-ProblemSolving/blob/main/Codeforces/200B_Drinks.cpp
  1000 | [A. Theatre Square](https://codeforces.com/problemset/problem/1/A) | https://github.com/mahfuzhasanreza/CP-ProblemSolving/blob/main/Codeforces/1A_Theatre_Square.cpp
- 900 | [B. AB Flipping](https://codeforces.com/problemset/problem/1896/B) | https://github.com/mahfuzhasanreza/CP-ProblemSolving/blob/main/Codeforces/1896B_AB_Flipping.cpp
  800 | [A. The Good Array](https://codeforces.com/problemset/problem/1839/A) | https://github.com/mahfuzhasanreza/CP-ProblemSolving/blob/main/Codeforces/1839A_The_Good_Array.cpp
  800 | [A. Grasshopper on a Line](https://codeforces.com/problemset/problem/1837/A) | https://github.com/mahfuzhasanreza/CP-ProblemSolving/blob/main/Codeforces/1837A_Grasshopper_on_a_Line.cpp
  800 | [A. Love Story](https://codeforces.com/problemset/problem/1829/A) | https://github.com/mahfuzhasanreza/CP-ProblemSolving/blob/main/Codeforces/1829A_Love_Story.cpp
