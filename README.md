@@ -107,27 +107,27 @@ My solutions of some problems from various competitive programming platforms.
 100 | 800 | [A. Gennady and a Card Game](https://codeforces.com/contest/1097/problem/A) | https://github.com/mahfuzhasanreza/CP-ProblemSolving/blob/main/Codeforces/1097A_Gennady_and_a_Card_Game.cpp
 101 | 800 | [A. Maximum Increase](https://codeforces.com/contest/702/problem/A) | https://github.com/mahfuzhasanreza/CP-ProblemSolving/blob/main/Codeforces/702A_Maximum_Increase.cpp
 102 | 800 | [A. C+=](https://codeforces.com/contest/1368/problem/A) | https://github.com/mahfuzhasanreza/CP-ProblemSolving/blob/main/Codeforces/1368A_C%2B%3D.cpp
-103 | 800 | [A. Coins](https://codeforces.com/contest/1814/problem/A) | 
-104 | 1000 | [A - Diverse Substring](https://codeforces.com/contest/1073/problem/A) |
-105 | 800 | [A. Forbidden Integer](https://codeforces.com/contest/1845/problem/A) |
-106 | 900 | [A. Lucky Numbers](https://codeforces.com/contest/1808/problem/A) |
-107 | 1400 | [A. Adding Digits](https://codeforces.com/contest/260/problem/A) |
-108 | 1100 | [B. Interesting drink](https://codeforces.com/contest/706/problem/B) |
-109 | 800 | [A. Rudolph and Cut the Rope](https://codeforces.com/contest/1846/problem/A) |
-110 | 800 | [B. Rudolph and Tic-Tac-Toe](https://codeforces.com/contest/1846/problem/B) |
-111 | 800 | [A. The Man who became a God](https://codeforces.com/contest/1847/problem/A) |
-112 | 800 | [A. A+B?](https://codeforces.com/contest/1772/problem/A) |
-113 | 800 | [B. Increasing](https://codeforces.com/contest/1742/problem/B) |
-114 | 1000 | [A. Football](https://codeforces.com/contest/43/problem/A) |
-115 | 1100 | [E. Eating Queries](https://codeforces.com/contest/1676/problem/E) |
-116 | 800 | [B. Borze](https://codeforces.com/contest/32/problem/B) |
-117 | 800 | [B. Ten Words of Wisdom](https://codeforces.com/contest/1850/problem/B) |
-118 | 800 | [A. To My Critics](https://codeforces.com/contest/1850/problem/A) | 
-119 | 800 | [C. Word on the Paper](https://codeforces.com/contest/1850/problem/C) |
-120 | 1000 | [C. Best Binary String](https://codeforces.com/contest/1837/problem/C) |
-121 | 800 | [C. Vlad Building Beautiful Array](https://codeforces.com/contest/1833/problem/C) |
-122 | 900 | [B. Comparison String](https://codeforces.com/contest/1837/problem/B) |
-123 | 800 | [A. Blackboard List](https://codeforces.com/contest/1838/problem/A) |
+103 | 800 | [A. Coins](https://codeforces.com/contest/1814/problem/A) | https://github.com/mahfuzhasanreza/CP-ProblemSolving/blob/main/Codeforces/1814A_Coins.cpp
+104 | 1000 | [A - Diverse Substring](https://codeforces.com/contest/1073/problem/A) | https://github.com/mahfuzhasanreza/CP-ProblemSolving/blob/main/Codeforces/1073A_Diverse_Substring.cpp
+105 | 800 | [A. Forbidden Integer](https://codeforces.com/contest/1845/problem/A) | https://github.com/mahfuzhasanreza/CP-ProblemSolving/blob/main/Codeforces/1845A_Forbidden_Integer.cpp
+106 | 900 | [A. Lucky Numbers](https://codeforces.com/contest/1808/problem/A) | https://github.com/mahfuzhasanreza/CP-ProblemSolving/blob/main/Codeforces/1808A_Lucky_Numbers.cpp
+107 | 1400 | [A. Adding Digits](https://codeforces.com/contest/260/problem/A) | https://github.com/mahfuzhasanreza/CP-ProblemSolving/blob/main/Codeforces/260A_Adding_Digits.cpp
+108 | 1100 | [B. Interesting drink](https://codeforces.com/contest/706/problem/B) | https://github.com/mahfuzhasanreza/CP-ProblemSolving/blob/main/Codeforces/706B_Interesting_drink.cpp
+109 | 800 | [A. Rudolph and Cut the Rope](https://codeforces.com/contest/1846/problem/A) | https://github.com/mahfuzhasanreza/CP-ProblemSolving/blob/main/Codeforces/1846A_Rudolph_and_Cut_the_Rope.cpp
+110 | 800 | [B. Rudolph and Tic-Tac-Toe](https://codeforces.com/contest/1846/problem/B) | https://github.com/mahfuzhasanreza/CP-ProblemSolving/blob/main/Codeforces/1846B_Rudolph_and_Tic_Tac_Toe.cpp
+111 | 800 | [A. The Man who became a God](https://codeforces.com/contest/1847/problem/A) | https://github.com/mahfuzhasanreza/CP-ProblemSolving/blob/main/Codeforces/1847A_The_Man_who_became_a_God.cpp
+112 | 800 | [A. A+B?](https://codeforces.com/contest/1772/problem/A) | https://github.com/mahfuzhasanreza/CP-ProblemSolving/blob/main/Codeforces/1772A_A%2BB%3F.cpp
+113 | 800 | [B. Increasing](https://codeforces.com/contest/1742/problem/B) | https://github.com/mahfuzhasanreza/CP-ProblemSolving/blob/main/Codeforces/1742B_Increasing.cpp
+114 | 1000 | [A. Football](https://codeforces.com/contest/43/problem/A) | https://github.com/mahfuzhasanreza/CP-ProblemSolving/blob/main/Codeforces/43A_Football.cpp
+115 | 1100 | [E. Eating Queries](https://codeforces.com/contest/1676/problem/E) | https://github.com/mahfuzhasanreza/CP-ProblemSolving/blob/main/Codeforces/1676E_Eating_Queries.cpp
+116 | 800 | [B. Borze](https://codeforces.com/contest/32/problem/B) | https://github.com/mahfuzhasanreza/CP-ProblemSolving/blob/main/Codeforces/32B_Borze.cpp
+117 | 800 | [B. Ten Words of Wisdom](https://codeforces.com/contest/1850/problem/B) | https://github.com/mahfuzhasanreza/CP-ProblemSolving/blob/main/Codeforces/1850B_Ten_Words_of_Wisdom.cpp
+118 | 800 | [A. To My Critics](https://codeforces.com/contest/1850/problem/A) | https://github.com/mahfuzhasanreza/CP-ProblemSolving/blob/main/Codeforces/1850A_To_My_Critics.cpp
+119 | 800 | [C. Word on the Paper](https://codeforces.com/contest/1850/problem/C) | https://github.com/mahfuzhasanreza/CP-ProblemSolving/blob/main/Codeforces/1850C_Word_on_the_Paper.cpp
+120 | 1000 | [C. Best Binary String](https://codeforces.com/contest/1837/problem/C) | https://github.com/mahfuzhasanreza/CP-ProblemSolving/blob/main/Codeforces/1837C_Best_Binary_String.cpp
+121 | 800 | [C. Vlad Building Beautiful Array](https://codeforces.com/contest/1833/problem/C) | https://github.com/mahfuzhasanreza/CP-ProblemSolving/blob/main/Codeforces/1833C_Vlad_Building_Beautiful_Array.cpp
+122 | 900 | [B. Comparison String](https://codeforces.com/contest/1837/problem/B) | https://github.com/mahfuzhasanreza/CP-ProblemSolving/blob/main/Codeforces/1837B_Comparison_String.cpp
+123 | 800 | [A. Blackboard List](https://codeforces.com/contest/1838/problem/A) | https://github.com/mahfuzhasanreza/CP-ProblemSolving/blob/main/Codeforces/1838A_Blackboard_List.cpp
 
 
 
