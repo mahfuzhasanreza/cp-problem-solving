@@ -128,7 +128,9 @@ My solutions of some problems from various competitive programming platforms.
 121 | 800 | [C. Vlad Building Beautiful Array](https://codeforces.com/contest/1833/problem/C) | https://github.com/mahfuzhasanreza/CP-ProblemSolving/blob/main/Codeforces/1833C_Vlad_Building_Beautiful_Array.cpp
 122 | 900 | [B. Comparison String](https://codeforces.com/contest/1837/problem/B) | https://github.com/mahfuzhasanreza/CP-ProblemSolving/blob/main/Codeforces/1837B_Comparison_String.cpp
 123 | 800 | [A. Blackboard List](https://codeforces.com/contest/1838/problem/A) | https://github.com/mahfuzhasanreza/CP-ProblemSolving/blob/main/Codeforces/1838A_Blackboard_List.cpp
-
+... | ... | ... | ...
+... | ... | ... | ...
+... | ... | ... | ...
 
 
 <br>
